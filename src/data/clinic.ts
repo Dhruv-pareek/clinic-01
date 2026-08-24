@@ -55,6 +55,6 @@ export const TIME_SLOTS = [
 ];
 
 export const DEVELOPER = {
-  name: 'Crafted with care',
+  name: 'Dhruv Pareek',
   detail: 'Website designed & developed by THE DENTAL HUT Digital Team',
 };
