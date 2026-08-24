@@ -38,14 +38,14 @@ export const DOCTORS = [
 export const TREATMENTS = [
   { name: 'Dental Check-up & Cleaning', price: '', desc: 'Routine examination, scaling, and polishing to keep your teeth healthy.', icon: 'Stethoscope' },
   { name: 'Tooth Filling', price: '', desc: 'Composite or amalgam fillings to restore decayed or damaged teeth.', icon: 'Shield' },
-  { name: 'Root Canal Treatment', price: '₹3,000', desc: 'Painless root canal therapy to save infected or severely decayed teeth.', icon: 'Activity' },
-  { name: 'Tooth Extraction', price: '₹1,500 – ₹2,500', desc: 'Safe removal of damaged or wisdom teeth with minimal discomfort.', icon: 'Scissors' },
-  { name: 'Teeth Whitening', price: '₹6,000', desc: 'Professional bleaching to brighten your smile by several shades.', icon: 'Sparkles' },
-  { name: 'Dental Cap', price: '₹2,500 – ₹6,000', desc: 'Protective caps placed over treated or damaged teeth to restore strength and appearance.', icon: 'HardHat' },
-  { name: 'Dental Implants', price: '₹25,000', desc: 'Permanent titanium implants to replace missing teeth naturally.', icon: 'Anchor' },
-  { name: 'Braces & Aligners', price: '₹20,000', desc: 'Traditional braces and clear aligners to straighten your teeth.', icon: 'Smile' },
-  { name: 'Dental Crowns & Bridges', price: '₹5,000+', desc: 'Custom crowns and bridges to restore damaged or missing teeth.', icon: 'Crown' },
-  { name: "Children's Dentistry", price: '₹1,000', desc: 'Gentle, friendly dental care designed especially for kids.', icon: 'Baby' },
+  { name: 'Root Canal Treatment', price: '', desc: 'Painless root canal therapy to save infected or severely decayed teeth.', icon: 'Activity' },
+  { name: 'Tooth Extraction', price: '', desc: 'Safe removal of damaged or wisdom teeth with minimal discomfort.', icon: 'Scissors' },
+  { name: 'Teeth Whitening', price: '', desc: 'Professional bleaching to brighten your smile by several shades.', icon: 'Sparkles' },
+  { name: 'Dental Cap', price: '', desc: 'Protective caps placed over treated or damaged teeth to restore strength and appearance.', icon: 'HardHat' },
+  { name: 'Dental Implants', price: '', desc: 'Permanent titanium implants to replace missing teeth naturally.', icon: 'Anchor' },
+  { name: 'Braces & Aligners', price: '', desc: 'Traditional braces and clear aligners to straighten your teeth.', icon: 'Smile' },
+  { name: 'Dental Crowns & Bridges', price: '', desc: 'Custom crowns and bridges to restore damaged or missing teeth.', icon: 'Crown' },
+  { name: "Children's Dentistry", price: '', desc: 'Gentle, friendly dental care designed especially for kids.', icon: 'Baby' },
 ];
 
 export const TIME_SLOTS = [
