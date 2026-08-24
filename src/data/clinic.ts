@@ -4,7 +4,7 @@ export const CLINIC = {
   address: '23 C/1, Moti Nagar, opp. Singh Sabha Gurudwara Sahib, Ludhiana, Punjab, India 141010',
   phone: '+91 95929 03370',
   phone2: '+91 77268 29245',
-  email: 'raghav.ankur.pareek.370@gmail.com',
+  email: 'raghav.ankur.pareek@gmail.com',
   mapUrl: 'https://maps.google.com/?q=23+C/1+Moti+Nagar+Ludhiana+Punjab+141010',
 };
 
