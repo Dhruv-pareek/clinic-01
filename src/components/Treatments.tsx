@@ -21,7 +21,7 @@ export default function Treatments({ onBookClick }: TreatmentsProps) {
             Our Services
           </div>
           <h2 className="text-3xl sm:text-4xl font-bold text-slate-800 mb-3">
-            Treatments & pricing
+            Treatments
           </h2>
           <p className="text-slate-600">
             Transparent pricing for every treatment. No hidden charges, just honest care.
