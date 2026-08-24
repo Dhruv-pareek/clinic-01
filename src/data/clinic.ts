@@ -41,7 +41,7 @@ export const TREATMENTS = [
   { name: 'Root Canal Treatment', price: '', desc: 'Painless root canal therapy to save infected or severely decayed teeth.', icon: 'Activity' },
   { name: 'Tooth Extraction', price: '', desc: 'Safe removal of damaged or wisdom teeth with minimal discomfort.', icon: 'Scissors' },
   { name: 'Teeth Whitening', price: '', desc: 'Professional bleaching to brighten your smile by several shades.', icon: 'Sparkles' },
-  { name: 'Dental Cap', price: '', desc: 'Protective caps placed over treated or damaged teeth to restore strength and appearance.', icon: 'HardHat' },
+  { name: 'Dental Crowns', price: '', desc: 'Protective caps placed over treated or damaged teeth to restore strength and appearance.', icon: 'HardHat' },
   { name: 'Dental Implants', price: '', desc: 'Permanent titanium implants to replace missing teeth naturally.', icon: 'Anchor' },
   { name: 'Braces & Aligners', price: '', desc: 'Traditional braces and clear aligners to straighten your teeth.', icon: 'Smile' },
   { name: 'Dental Crowns & Bridges', price: '', desc: 'Custom crowns and bridges to restore damaged or missing teeth.', icon: 'Crown' },
