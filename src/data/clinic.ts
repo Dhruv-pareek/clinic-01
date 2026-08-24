@@ -4,7 +4,7 @@ export const CLINIC = {
   address: '23 C/1, Moti Nagar, opp. Singh Sabha Gurudwara Sahib, Ludhiana, Punjab, India 141010',
   phone: '+91 95929 03370',
   phone2: '+91 77268 29245',
-  email: 'pareek.ankur.370@gmail.com',
+  email: 'raghav.ankur.pareek.370@gmail.com',
   mapUrl: 'https://maps.google.com/?q=23+C/1+Moti+Nagar+Ludhiana+Punjab+141010',
 };
 
@@ -36,8 +36,8 @@ export const DOCTORS = [
 ];
 
 export const TREATMENTS = [
-  { name: 'Dental Check-up & Cleaning', price: '₹800', desc: 'Routine examination, scaling, and polishing to keep your teeth healthy.', icon: 'Stethoscope' },
-  { name: 'Tooth Filling', price: '₹1,200', desc: 'Composite or amalgam fillings to restore decayed or damaged teeth.', icon: 'Shield' },
+  { name: 'Dental Check-up & Cleaning', price: '', desc: 'Routine examination, scaling, and polishing to keep your teeth healthy.', icon: 'Stethoscope' },
+  { name: 'Tooth Filling', price: '', desc: 'Composite or amalgam fillings to restore decayed or damaged teeth.', icon: 'Shield' },
   { name: 'Root Canal Treatment', price: '₹3,000', desc: 'Painless root canal therapy to save infected or severely decayed teeth.', icon: 'Activity' },
   { name: 'Tooth Extraction', price: '₹1,500 – ₹2,500', desc: 'Safe removal of damaged or wisdom teeth with minimal discomfort.', icon: 'Scissors' },
   { name: 'Teeth Whitening', price: '₹6,000', desc: 'Professional bleaching to brighten your smile by several shades.', icon: 'Sparkles' },
